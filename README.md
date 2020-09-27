@@ -1,2 +1,2 @@
-# orivasmit.githut.io
+# orivasmit.github.io
 Website 
